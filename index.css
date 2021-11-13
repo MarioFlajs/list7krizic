@@ -1,0 +1,35 @@
+
+body {
+    background-color: #4ca3b3;
+    padding: 10rem 45rem;
+}
+
+div {
+    height: 31rem;
+    width: 31rem;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap:  0.5rem;
+    background-color: rgb(32, 14, 73);
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+button {
+    background-color: rgba(252, 252, 252, 0.952);
+    color: rgb(0, 0, 0);
+    width: 10rem;
+    height: 10rem;
+    cursor: pointer;
+    font-size: 4rem;
+    
+}
